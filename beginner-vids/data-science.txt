@@ -1,0 +1,17 @@
+Videos: ML Preparatory Videos (Compulsory prep):
+Intro to ML (2:34)
+Intro to Regression (12:40)
+Linear Regression in Python (15:13)
+[Optional] The Math behind Linear Regression (article)
+Decision Tree Regression in Python (14:45)
+Random Forest Regression in Python (watch until 9:02)
+[Optional] The Math behind Random Forest Regression (article)
+Intro to Classification (2:18)
+Logistic Regression in Python (19:18)
+
+[Optional] Preparation for CTF Session (highly recommended, decreasing level of relevance):
+Intro to Tensorflow (2:39)
+How do Neural Networks Work? (18:39)
+What is an Artificial Neural Network? (article)
+What is Gradient Descent? (20:33)
+Backpropagation (12:46)

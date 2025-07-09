@@ -1,9 +1,10 @@
 # Week 3 (16 July 2025) — Advanced Web (In-Session: 120 min)
 
 ## 🔹 Pre-Session Prep (to do before 16 July)
-1. **Watch (≈15 min)**  
-   - DOM vs. Reflected XSS (PortSwigger Academy)  
-   - CSRF fundamentals & Same-Site cookies (YouTube)  
+1. **Watch (≈30 min)**  
+   - DOM vs. Reflected XSS (~10 mins) 
+   - CSRF fundamentals & Same-Site cookies (~15 mins)
+   - SSTI (server side template injection) (~10 mins)  
 
 *(Ensures everyone arrives with the same baseline.)*
 

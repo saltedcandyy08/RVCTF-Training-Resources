@@ -15,7 +15,7 @@
 |CSRF|https://owasp.org/www-community/attacks/csrf|
 |JWT|https://portswigger.net/web-security/jwt
 |SSTI|https://portswigger.net/web-security/server-side-template-injection|
-|Cookies|no link|
+|Cookies|just use curl to send over or modify on your own|
 
 ## tbc
 have a flag :D

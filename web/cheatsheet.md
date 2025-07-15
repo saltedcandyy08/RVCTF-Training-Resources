@@ -12,8 +12,4 @@ Pentesting tool for SQL:
 - https://github.com/sqlmapproject/sqlmap
 
 ## XSS
-  [📥 Download here](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf)
-- **HackTricks** – A comprehensive collection of web and network pentesting tricks and techniques  
-  🌐 [Explore here](https://hacktricks.boitatech.com.br/)
-
-
+- https://portswigger.net/web-security/cross-site-scripting/cheat-sheet

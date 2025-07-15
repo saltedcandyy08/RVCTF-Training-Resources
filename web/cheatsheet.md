@@ -2,6 +2,7 @@
 
 ## General Web Stuff:
 - Pentesting practice: https://github.com/WebGoat/WebGoat
+- just download the application lol
 
 ## SQL
 Cheat Sheets for various SQL payloads:
@@ -13,3 +14,6 @@ Pentesting tool for SQL:
 
 ## XSS
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+
+## SSRF
+- https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet

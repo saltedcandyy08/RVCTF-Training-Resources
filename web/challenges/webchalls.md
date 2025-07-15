@@ -17,7 +17,12 @@ don't worry if you can't solve them, there are hints and solutions! there are al
 - https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded
 
 ## dom xss
-- 
+- https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink
+- https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink-inside-select-element
+- https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-innerhtml-sink
+
+# ssrf
+## 
 
 # others
 ## picoctf challs

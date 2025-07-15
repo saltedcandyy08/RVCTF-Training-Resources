@@ -22,7 +22,10 @@ don't worry if you can't solve them, there are hints and solutions! there are al
 - https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-innerhtml-sink
 
 # ssrf
-## 
+## idk man here's a chall
+- https://tryhackme.com/room/ssrfhr
 
 # others
 ## picoctf challs
+- elements: https://play.picoctf.org/practice/challenge/447?category=1&page=5 (xss i think)
+- picobrowser: https://play.picoctf.org/practice/challenge/9?category=1&page=5

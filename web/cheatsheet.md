@@ -22,4 +22,10 @@ Pentesting tool for SQL:
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 
 ## SSRF
+URL Validation Cheat Sheet:
 - https://portswigger.net/web-security/ssrf/url-validation-bypass-cheat-sheet
+- 
+General SSRF Methods:
+- https://highon.coffee/blog/ssrf-cheat-sheet
+
+  

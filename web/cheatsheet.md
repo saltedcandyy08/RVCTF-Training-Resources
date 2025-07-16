@@ -7,6 +7,9 @@ Pentesting practice:
 General cheatsheet for cURL requests syntax:
 - https://www.stationx.net/curl-cheat-sheet (How to use: https://curl.se/docs/tutorial.html)
 
+FULL AND COMPREHENSIVE CHEATSHEET FOR ALL WEB PAYLOADS (REALLY REALLY USEFUL!!):
+- https://swisskyrepo.github.io/PayloadsAllTheThings/#documentation
+
 ## SQL
 Cheat Sheets for various SQL payloads:
 - https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/

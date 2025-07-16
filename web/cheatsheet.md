@@ -1,13 +1,19 @@
 # various cheatsheets! [UNDER CONSTRUCTION]
 
 ## General Web Stuff:
-- Pentesting practice: https://github.com/WebGoat/WebGoat
-- just download the application lol
+Pentesting practice: 
+- https://github.com/WebGoat/WebGoat just download the application lol
+
+how to use curl:
+- https://curl.se/docs/tutorial.html
 
 ## SQL
 Cheat Sheets for various SQL payloads:
 - https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/
 - https://portswigger.net/web-security/sql-injection/cheat-sheet
+
+how to use sqlmap:
+- https://hackertarget.com/sqlmap-tutorial/
 
 Pentesting tool for SQL:
 - https://github.com/sqlmapproject/sqlmap

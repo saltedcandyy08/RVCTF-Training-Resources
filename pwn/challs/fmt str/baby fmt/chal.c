@@ -1,11 +1,11 @@
 //  gcc -o chal chal.c -fno-pie -no-pie -fstack-protector
 
+#include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
 
 void win() {
-    puts("RVCTF{f0rm4t_str1ng5_w4snt_th4t_h4rd_w4s_1t?}");
-    exit(0);
+    execve("/bin/sh", NULL, NULL);
 }
 
 void vuln() {

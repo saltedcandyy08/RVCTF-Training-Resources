@@ -1,0 +1,3 @@
+Refer to the assignment brief for details and objectives Flag format is YBN{location_name_all_lowercase_no_spaces}
+
+E.g. if the location is Resorts World Sentosa, the flag will be YBN{resorts_world_sentosa}

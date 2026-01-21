@@ -1,0 +1,5 @@
+Refer to the assignment brief for details and objectives
+
+Flag format is YBN{location_name_all_lowercase_no_spaces}
+
+E.g. if the location was Changi Airport, the flag would be YBN{changi_airport}

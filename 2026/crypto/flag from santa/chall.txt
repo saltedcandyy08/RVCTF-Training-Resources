@@ -1,0 +1,3 @@
+Santa has sent a flag to everyone on the nice list, unfortunately you did not get one, but you managed to obtain some RSA artifacts Santa used.
+
+Maybe you can get the flag as well?
